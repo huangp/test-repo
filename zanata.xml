@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+    <project>test-repo</project>
+    <project-version>master</project-version>
+    <project-type>podir</project-type>
+    <src-dir>pot</src-dir>
+    <trans-dir>.</trans-dir>
+    <rules/>
+</config>
