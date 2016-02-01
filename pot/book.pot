@@ -11,6 +11,9 @@ msgstr ""
 msgid "Networking"
 msgstr ""
 
+msgid "new entry"
+msgstr ""
+
 #: ./doc/install-guide/section_basics-networking.xml:9(para)
 msgid ""
 "After installing the operating system on each node for the architecture that "
