@@ -35,3 +35,5 @@ msgid ""
 "(VPN)\">virtual private networks (VPNs)</glossterm>."
 msgstr ""
 
+msgid "中文"
+msgstr ""
