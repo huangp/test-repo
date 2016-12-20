@@ -35,5 +35,5 @@ msgid ""
 "(VPN)\">virtual private networks (VPNs)</glossterm>."
 msgstr ""
 
-msgid "中文"
+msgid "2016.12.20"
 msgstr ""
