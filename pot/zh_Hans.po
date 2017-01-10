@@ -1,4 +1,4 @@
-# Administrator <admin@noreply.org>, 2016. #zanata
+# Administrator <admin@noreply.org>, 2017. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -6,28 +6,28 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-10-05 04:37+0000\n"
+"PO-Revision-Date: 2017-01-09 11:55+0000\n"
 "Last-Translator: Administrator <admin@noreply.org>\n"
 "Language-Team: Chinese (Simplified)\n"
 "Language: zh-Hans\n"
-"X-Generator: Zanata 4.0.0-SNAPSHOT\n"
+"X-Generator: Zanata 4.0.1-SNAPSHOT\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 
 #: ./doc/install-guide/section_basics-networking.xml:8(title)
 msgid "Networking"
-msgstr "??????"
+msgstr "网络"
 
 #: ./doc/install-guide/section_basics-networking.xml:52(title)
 msgid "To disable Network Manager"
-msgstr ""
+msgstr "禁止网络管理器"
 
 #: ./doc/install-guide/section_basics-networking.xml:54(para)
 msgid "Use the YaST network module:"
-msgstr ""
+msgstr "Use the YaST network module:"
 
 #: ./doc/install-guide/section_neutron-concepts.xml:7(title)
 msgid "Networking concepts"
-msgstr ""
+msgstr "网络概念"
 
 #: ./doc/install-guide/section_neutron-concepts.xml:8(para)
 msgid ""
@@ -41,5 +41,5 @@ msgid ""
 "(VPN)\">virtual private networks (VPNs)</glossterm>."
 msgstr ""
 
-msgid "??????"
+msgid "2016.12.20"
 msgstr ""
