@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <config xmlns="http://zanata.org/namespace/config/">
-    <url>http://localhost:8080/zanata/</url>
+    <url>http://zanata:8080/</url>
     <project>test-repo</project>
     <project-version>master</project-version>
     <project-type>podir</project-type>
