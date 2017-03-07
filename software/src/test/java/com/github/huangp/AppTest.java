@@ -8,9 +8,9 @@ import org.junit.Test;
 public class AppTest {
     @Test
     public void test() {
-        App.main(null);
+//        App.main(null);
 
-        App.main(new String[] {"zh"});
+//        App.main(new String[] {"zh"});
     }
 
 
