@@ -1,5 +1,6 @@
 package com.github.huangp;
 
+import java.util.Enumeration;
 import java.util.Locale;
 import java.util.ResourceBundle;
 
@@ -21,8 +22,16 @@ public class App {
 
 
         System.out.println(messages.getString("greeting"));
+        Enumeration<String> keys = messages.getKeys();
+        while (keys.hasMoreElements()) {
+            String nextKey = keys.nextElement();
+            if (!nextKey.equals("greeting") && !nextKey.equals("farewell")) {
+                System.out.println(messages.getString(nextKey));
+            }
+        }
+
         try {
-            Thread.sleep(3000);
+            Thread.sleep(500);
         } catch (InterruptedException e) {
             System.out.println("oops");
         }
