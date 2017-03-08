@@ -1,5 +1,5 @@
-[[Basic-Deployment]] pahuang
-== Deployment Information huangp
+[[Basic-Deployment]]
+== Deployment Information
 
 The following table includes deployment references for components mentioned in this guide.
 
