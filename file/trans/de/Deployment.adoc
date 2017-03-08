@@ -1,0 +1,29 @@
+[[Basic-Deployment]]
+== Deployment Information
+
+The following table includes deployment references for components mentioned in this guide.
+
+Additional manuals for Red Hat OpenStack Platform can be found here: http://https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/
+
+[width="100%",cols="1,5",options="header",]
+|=========================================================
+|Component |Reference
+|Red Hat Enterprise Linux | Red Hat OpenStack Platform is supported on Red Hat Enterprise Linux 7.2.
+For information on installing Red Hat Enterprise Linux, see the corresponding installation guide at:
+https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/.
+|OpenStack |To install OpenStack components and their dependencies, use the Red Hat OpenStack Platform director. The director uses a basic OpenStack 'undercloud', which is then used to provision and manage the OpenStack nodes in the final 'overcloud'.
+
+Be aware that you will need one extra host machine for the installation of the undercloud, in addition to the environment necessary for the deployed overcloud. For detailed instructions, see _Red Hat OpenStack Platform Director Installation and Usage_.
+|High Availability |
+For the configuration of additional high availability components (for example, HAProxy), see https://access.redhat.com/articles/1370143[Deploying Highly Available Red Hat OpenStack Platform 6 with Ceph Storage].
+
+For information about configuring live migration, see _Managing Instances and Images_.
+
+|LBasS |To use Load Balancing-as-a-Service, see "Configuring Load Balancing-as-a-Service" in the _Networking Guide_.
+|Pacemaker | Pacemaker is integrated into Red Hat Enterprise Linux as an add-on. To set up Red Hat Enterprise Linux for high availability, see the https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/High_Availability_Add-On_Overview/index.html[High Availability Add-on Overview].
+|=========================================================
+
+
+//
+
+
