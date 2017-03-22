@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Administrator <admin@noreply.org>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
-"X-Generator: Zanata 4.0.1-SNAPSHOT\n"
+"X-Generator: Zanata 4.2.0-SNAPSHOT\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
 #: ./doc/install-guide/section_basics-networking.xml:8(title)
