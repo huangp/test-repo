@@ -22,6 +22,7 @@ public class LocaleFilter implements Filter {
     @Override
     public void doFilter(ServletRequest request, ServletResponse response,
             FilterChain chain) throws IOException, ServletException {
+        request.setCharacterEncoding("UTF-8");
         String locale = request.getParameter("locale");
         ResourceLoader resourceLoader = new ResourceLoader(locale);
         String title = resourceLoader.titleText();

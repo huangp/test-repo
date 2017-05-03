@@ -1,5 +1,7 @@
+<%@ page contentType="text/html; charset=UTF-8" %>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title><%= request.getAttribute("title")%> </title>
     <style>
         .center {
@@ -13,7 +15,7 @@
         <a href="?">English</a>
     </li>
     <li>
-        <a href="?locale=zh_Hans">Chinese</a>
+        <a href="?locale=zh">Chinese</a>
     </li>
 </ul>
 
