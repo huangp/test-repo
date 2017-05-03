@@ -35,3 +35,8 @@ msgid ""
 "(VPN)\">virtual private networks (VPNs)</glossterm>."
 msgstr ""
 
+#: src/msgcmp.c:338 src/po-lex.c:699
+#, c-format
+msgid "found %d fatal error"
+msgid_plural "found %d fatal errors"
+
