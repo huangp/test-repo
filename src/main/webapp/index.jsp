@@ -13,7 +13,7 @@
         <a href="?">English</a>
     </li>
     <li>
-        <a href="?locale=zh">Chinese</a>
+        <a href="?locale=zh_Hans">Chinese</a>
     </li>
 </ul>
 
