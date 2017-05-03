@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+  <url>http://zanata:8080/</url>
+  <project>demo-webapp1</project>
+  <project-version>1.0</project-version>
+  <project-type>properties</project-type>
+
+  <src-dir>src/main/resources</src-dir>
+  <trans-dir>src/main/resources</trans-dir>
+  <includes>messages.properties</includes>
+
+
+</config>
