@@ -6,7 +6,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2017-05-03 04:50+0000\n"
+"PO-Revision-Date: 2017-05-03 04:53+0000\n"
 "Last-Translator: Administrator <admin@noreply.org>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -21,12 +21,12 @@ msgstr[0] "Usunięto jeden plik"
 msgstr[1] "%d Usunięte pliki"
 msgstr[2] "%d Usunięte pliki"
 
-#, c-format
+#, fuzzy, c-format
 msgid "One other file removed"
 msgid_plural "%d files removed"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Usunięto jeden plik"
+msgstr[1] "%d Usunięte pliki"
+msgstr[2] "%d Usunięte pliki"
 
 #, c-format
 msgid "One file removed_"
